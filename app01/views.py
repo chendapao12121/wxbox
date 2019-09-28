@@ -160,14 +160,14 @@ def sendmsg(request):
             },
             json={
                 "touser": openid,
-                "template_id": '0XbLbuNkn3wPPAYRVXM-MZ0gU0tPvVbsjfc1qoSH6CM',
+                "template_id": 'wT4UXm_EBbLYrZ5Q_rnpd4XuC9k8bn7lJqy68zNCJFw',
                 "data": {
                     "first": {
-                        "value": "云姐",
+                        "value": "陈政均",
                         "color": "#173177"
                     },
                     "keyword1": {
-                        "value": "美女",
+                        "value": "帅哥",
                         "color": "#173177"
                     },
                 }
